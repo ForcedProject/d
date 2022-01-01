@@ -9,7 +9,6 @@ local TextLabel = Instance.new("TextLabel")
 
 Loader.Name = "Loader"
 Loader.Parent = game.CoreGui
-Loader.Enabled = false
 Loader.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 Loader.ResetOnSpawn = false
 
